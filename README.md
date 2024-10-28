@@ -30,7 +30,6 @@ The dataset provides various metrics and properties of TikTok videos, including:
 | `video_download_count`   | float  | Number of downloads.                                                                                    |
 | `video_comment_count`    | float  | Number of comments on the video.                                                                        |
 
-Source: [Coursera Dataset Project](https://www.coursera.org/learn/get-started-with-python/quiz/Ky5XE/activity-create-your-course-2-tiktok-project/attempt)
 
 ## Installation
 
